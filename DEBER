@@ -1,0 +1,26 @@
+{
+"Estudiantes" : [
+{"id" : 001, "nombre" : "Karol" , "apellido" : "Peñafiel", "direccion" : "El mirador" , "edad" : "18" },
+{"id" : 002, "nombre" : "Bryan" , "apellido" : "Romero", "direccion" : "San jose" , "edad" : "20" },
+{"id" : 003, "nombre" : "Eric" , "apellido" : "Peralta", "direccion" : "Mururco" , "edad" : "20" },
+{"id" : 004, "nombre" : "Agustin" , "apellido" : "Ortega", "direccion" : "Charasol" , "edad" : "21" },
+{"id" : 005, "nombre" : "Freddy" , "apellido" : "Herrera", "direccion" : "Av 24 de mayo" , "edad" : "20" },
+{"id" : 006, "nombre" : "Geovanny" ,"apellido" : "Herrera", "direccion" : "San marcos" , "edad" : "20" },
+{"id" : 007, "nombre" : "Mercy" , "apellido" : "Sumba", "direccion" : "Javier Loyola" , "edad" : "21" },
+{"id" : 008, "nombre" : "Lorena" , "apellido" : "Dutan", "direccion" : "Av 10 de agosto" , "edad" : "20" },
+{"id" : 009, "nombre" : "Esthela" , "apellido" : "Lata", "direccion" : "Bayas" , "edad" : "20" },
+{"id" : 010, "nombre" : "Guadalupe" , "apellido" : "Astudillo", "direccion" : "Biblian" , "edad" : "21" },
+{"id" : 011, "nombre" : "Jefferson" , "apellido" : "Trelles", "direccion" : "Sageo" , "edad" : "20" },
+{"id" : 012, "nombre" : "Jhonathan" , "apellido" : "Peralta", "direccion" : "Ayancay" , "edad" : "23" },
+{"id" : 013, "nombre" : "Jaime" , "apellido" : "Sumba", "direccion" : "Quimandel" , "edad" : "22" },
+
+]
+" Profesores" :[
+
+{"id" : 001, "nombre" : "Mauricio" , "apellido" : "Palomino", "direccion" : "Azogues" , "edad" : "35" },
+{"id" : 002, "nombre" : "Adrian" , "apellido" : "Guzman", "direccion" : "Cuenca" , "edad" : "38" },
+{"id" : 003, "nombre" : " Alexandra", "apellido" : "Molina", "direccion" : "Cuenca" , "edad" : "27" },
+{"id" : 004, "nombre" : "Juan Pablo" , "apellido" : "Araujo", "direccion" : "Cuenca" , "edad" : "37" },
+{"id" : 005, "nombre" : "Cristina" , "apellido" : "Cuenca", "direccion" : "Azogues" , "edad" : "38" },
+{"id" : 006, "nombre" : "Javier" ,"apellido" : "Romero", "direccion" : "Cuenca" , "edad" : "32" },
+]
